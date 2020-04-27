@@ -10,3 +10,5 @@ adding some blank statement
 - remote: a place where the git repo is stored
      - git remote add origin <URL> add a remote
 - git push origin master: to push the master branch on our local computer to the remote
+     
+- checkout <HASH>: moves head to the location      
