@@ -1,4 +1,4 @@
-
+# Adding header for notes
 - init: create a git repo in current directory - do this only once
 - status: tells you what is going on
 - add: put files into the staging area
