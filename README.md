@@ -1,3 +1,4 @@
+
 # Adding header for notes
 - init: create a git repo in current directory - do this only once
 - status: tells you what is going on
@@ -10,3 +11,5 @@ adding some blank statement
 - remote: a place where the git repo is stored
      - git remote add origin <URL> add a remote
 - git push origin master: to push the master branch on our local computer to the remote
+     
+- checkout <HASH>: moves head to the location      
